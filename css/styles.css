@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    background: url("../img/background.gif") repeat;
+}
+
+#video {
+    width: 330px;
+    height: 250px;
+
+    position: absolute;
+
+    top: 0;
+    left: 0;
+}
